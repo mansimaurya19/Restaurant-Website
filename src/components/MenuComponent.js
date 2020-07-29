@@ -1,4 +1,5 @@
 import React from 'react';
+//import Header from './HeaderComponent';
 import { Card, CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
 
 function RenderMenuItem({ dish, onClick }) {
